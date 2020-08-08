@@ -16,9 +16,9 @@ public class Leet_99 {
             if(changeNum==2)
             {
                 int temp = firstChange.val;
-                firstChange.val = secondChange.val;
-                secondChange.val = temp;
-                changeNum++;
+                this.firstChange.val = secondChange.val;
+                this.secondChange.val = temp;
+                this.changeNum++;
             }
             if(root==null)
                 return;

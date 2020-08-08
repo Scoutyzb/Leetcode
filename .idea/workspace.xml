@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98755cfb-e4b5-4729-a7fe-68cd1bfcc4e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet_120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet_98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet_99.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leet_99.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leet_99.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +79,7 @@
       <workItem from="1594797687833" duration="1084000" />
       <workItem from="1594803194812" duration="171000" />
       <workItem from="1596761646247" duration="6403000" />
-      <workItem from="1596849334808" duration="61000" />
+      <workItem from="1596849334808" duration="1388000" />
     </task>
     <servers />
   </component>
