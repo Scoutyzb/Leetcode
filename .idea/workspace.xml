@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98755cfb-e4b5-4729-a7fe-68cd1bfcc4e6" name="Default Changelist" comment="" />
+    <list default="true" id="98755cfb-e4b5-4729-a7fe-68cd1bfcc4e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyQuestion/Leet20_9_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyQuestion/Leet20_9_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyQuestion/Leet20_9_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyQuestion/Leet20_9_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyQuestion/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyQuestion/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_415.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_491.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_685.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet_94.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DailyQuestion/Leet_10_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyQuestion/Leet20_10_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DailyQuestion/Leet_10_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyQuestion/Leet20_10_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DailyQuestion/Leet_10_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyQuestion/Leet20_10_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DailyQuestion/Leet_10_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyQuestion/Leet20_10_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DailyQuestion/Leet_10_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyQuestion/Leet20_10_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DailyQuestion/Leet_10_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyQuestion/Leet20_10_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DailyQuestion/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyQuestion/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leet_99.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leet_99.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +44,10 @@
         <option value="Class" />
       </list>
     </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,9 +57,20 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DailyQuestion" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,10 +84,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.test (1)">
     <configuration name="Sword_42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sword_42" />
       <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DailyQuestion.test" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DailyQuestion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -56,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test (1)" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Sword_42" />
       </list>
@@ -75,6 +134,19 @@
       <workItem from="1594792937626" duration="1732000" />
       <workItem from="1594797687833" duration="1084000" />
       <workItem from="1594803194812" duration="171000" />
+      <workItem from="1596761646247" duration="6403000" />
+      <workItem from="1596849334808" duration="7969000" />
+      <workItem from="1597389045813" duration="12886000" />
+      <workItem from="1598345332383" duration="5440000" />
+      <workItem from="1599197816042" duration="51000" />
+      <workItem from="1600083931994" duration="38562000" />
+      <workItem from="1600740790606" duration="17000" />
+      <workItem from="1600740811436" duration="4481000" />
+      <workItem from="1600860590595" duration="5676000" />
+      <workItem from="1600923657494" duration="6300000" />
+      <workItem from="1600930105348" duration="20000" />
+      <workItem from="1601019252388" duration="1502000" />
+      <workItem from="1602486943269" duration="673000" />
     </task>
     <servers />
   </component>
@@ -86,7 +158,13 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
             <State />
+=======
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+>>>>>>> a65fcef899dc4fef48399138bfada4f4275276c1
           </value>
         </entry>
       </map>
@@ -102,10 +180,38 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leet_685.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leet_685.java</url>
           <line>6</line>
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DailyQuestion/test.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Leet_415.java</url>
+          <line>17</line>
+          <properties class="Leet_415">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="board[1]" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
