@@ -1,43 +1,29 @@
 public class Leet_99 {
-    class Solution {
-        private int pre;
-        private TreeNode treePre;
-        private TreeNode firstChange;
-        private TreeNode secondChange;
-        private byte changeNum;
-        public Solution(){
-            this.pre = Integer.MIN_VALUE;
-            this.treePre = null;
-            this.changeNum = 0;
+    private TreeNode pre=null;
+    private TreeNode first=null;
+    private TreeNode second=null;
+    public void recoverTree(TreeNode root) {
+        traverseTree(root);
+        int temp = first.val;
+        first.val = second.val;
+        second.val = temp;
+        return;
+    }
+    public void traverseTree(TreeNode root){
+        if(root==null)
+            return;
+        traverseTree(root.left);
+        visit(root);
+        traverseTree(root.right);
+        return;
+    }
+    public void visit(TreeNode root){
+        if(this.pre!=null&&this.pre.val>root.val){
+               if(first == null)
+                   first = pre;
+               second = root;
         }
-        public void recoverTree(TreeNode root) {
-            if(changeNum==3)
-                return;
-            if(changeNum==2)
-            {
-                int temp = firstChange.val;
-                this.firstChange.val = secondChange.val;
-                this.secondChange.val = temp;
-                this.changeNum++;
-            }
-            if(root==null)
-                return;
-            if(root.left==null&&root.right==null)
-                return;
-            recoverTree(root.left);
-            visit(root);
-            recoverTree(root.right);
-        }
-        public void visit(TreeNode root){
-
-            if(this.pre<root.val){
-                if(this.changeNum==0)
-                    firstChange = treePre;
-                if(this.changeNum==1)
-                    secondChange = root;
-            }
-            this.pre = root.val;
-            this.treePre = root;
-        }
+        this.pre = root;
+        return;
     }
 }
