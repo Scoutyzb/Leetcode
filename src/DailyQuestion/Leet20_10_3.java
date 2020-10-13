@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-public class Leet_10_3 {
+public class Leet20_10_3 {
     public int[] twoSum_doublcircle(int[] nums, int target) {
         int i=0;
         int j=0;

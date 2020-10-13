@@ -1,6 +1,6 @@
 package DailyQuestion;
 
-public class Leet_10_7 {
+public class Leet20_10_7 {
     public void sortColors(int[] nums) {
         int p0 = 0;
         int p2 = nums.length - 1;

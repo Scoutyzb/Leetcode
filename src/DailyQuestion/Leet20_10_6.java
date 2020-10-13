@@ -2,7 +2,7 @@ package DailyQuestion;
 
 import java.util.*;
 
-public class Leet_10_6 {
+public class Leet20_10_6 {
     private Map<Integer,List<Integer>> map;
     private int[] dp;
     private Map<Integer,int[]> nodeDp;

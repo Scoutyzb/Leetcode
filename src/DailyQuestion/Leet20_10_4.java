@@ -1,6 +1,6 @@
 package DailyQuestion;
 
-public class Leet_10_4 {
+public class Leet20_10_4 {
     public ListNode addTwoNumbers_rec(ListNode l1, ListNode l2) {
         return addTwoNumbers_rec(l1,l2,0);
     }
