@@ -35,5 +35,6 @@ public class Leet20_10_12 {
         while(!stack.isEmpty()){
 
         }
+        return 0;
     }
 }
